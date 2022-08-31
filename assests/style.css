@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+.container {
+    text-align: center;
+}
+button {
+    font-size: 400%;
+}
+button:hover {
+    opacity: 0.8;
+}

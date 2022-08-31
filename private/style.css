@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+.container {
+    background-color: #333;
+    float: right;
+}
+img {
+    border-radius: 50%;
+    width: 50%;
+    float: right;
+}
+legend {
+    color: green;
+    font-size: 200%;
+}
+.submit {
+    font-size: 200%;
+}
+button:hover {
+    opacity: 0.8;
+}
